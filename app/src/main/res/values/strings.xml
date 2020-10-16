@@ -1,0 +1,314 @@
+<resources>
+    <string name="app_name">X Hospital OF Bangladesh</string>
+
+
+    <string-array name="Dr1">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="Dr2">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="Dr3">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="Dr4">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+    <string-array name="Dr5">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="Dr6">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="Dr7">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="Dr8">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="Dr9">
+
+        <item>Dr.Rifat</item>
+        <item>Dr.Ria</item>
+        <item>Dr.Minhaz</item>
+        <item>Dr.Monisha</item>
+        <item>Dr.Rahim</item>
+        <item>Dr.Arif</item>
+        <item>Dr.Atik</item>
+
+
+    </string-array>
+
+    <string-array name="doctor_type1">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+
+    <string-array name="doctor_type2">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+    <string-array name="doctor_type3">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+    <string-array name="doctor_type4">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+    <string-array name="doctor_type5">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+    <string-array name="doctor_type6">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+    <string-array name="doctor_type7">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+    <string-array name="doctor_type8">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+    <string-array name="doctor_type9">
+
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+        <item>Anesthesiology Specialist</item>
+
+
+    </string-array>
+
+    <string name="Dr_Rifat">
+
+                       Dr. Rifat
+                     MBBS,MCPS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: rifat@ gmail.com
+             Phone: +880-2-8234457, 882299,112223
+                    Time: 10:00AM-04:00PM
+                        FEE: 500TK
+
+    </string>
+
+    <string name="Dr_Ria">
+
+                       Dr. Ria
+                      MBBS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: riat@ gmail.com
+             Phone: +880-2-1111117, 8344339,1333443
+                    Time: 10:00AM-04:00PM
+                        FEE: 500TK
+</string>
+
+    <string name="Dr_Minhaz">
+
+                       Dr.Minhaz
+                      MBBS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: minhaz@ gmail.com
+         Phone: +880-2-143515437, 34545349,15443222
+                    Time: 09:00AM-03:00PM
+                        FEE: 500TK
+    </string>
+
+    <string name="Dr_Monisha">
+
+                       Dr.Monisha
+                 MBBS, FCPS ( Anaesthesia)
+                 Anesthesiology Specialist
+                  X Hospital OF Bangladesh
+                  Email: minhaz@ gmail.com
+         Phone: +880-2-143515437, 34545349,15443222
+                    Time: 09:00AM-03:00PM
+                        FEE: 500TK
+
+    </string>
+
+
+    <string name="Dr_Rahim">
+                        Dr. Rifat
+                     MBBS,MCPS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: rifat@ gmail.com
+             Phone: +880-2-8234457, 882299,112223
+                    Time: 10:00AM-04:00PM
+                        FEE: 500TK
+        </string>
+
+    <string name="Dr_Arif">
+                        Dr. Rifat
+                     MBBS,MCPS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: rifat@ gmail.com
+             Phone: +880-2-8234457, 882299,112223
+                    Time: 10:00AM-04:00PM
+                        FEE: 500TK
+        </string>
+
+    <string name="Dr_Atik">
+                        Dr. Rifat
+                     MBBS,MCPS, FCPS
+                 Anesthesiology Specialist
+        Prof. of Anaesthesiology of X Hospital OF Bangladesh
+                  Email: rifat@ gmail.com
+             Phone: +880-2-8234457, 882299,112223
+                    Time: 10:00AM-04:00PM
+                        FEE: 500TK
+        </string>
+</resources>

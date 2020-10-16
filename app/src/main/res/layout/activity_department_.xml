@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    android:layout_height="match_parent"
+    tools:context=".Department_Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="0.1 "
+        android:gravity="center">
+
+        <com.smarteist.autoimageslider.SliderLayout
+            android:id="@+id/slider"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:text="Anesthetics"
+            android:id="@+id/AnestheticsBtnId"
+            android:layout_marginTop="10dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp">
+
+        </Button>
+
+        <Button
+            android:text="Burn_Unit"
+            android:id="@+id/Burn_UnitBtnId"
+            android:layout_marginTop="10dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp">
+
+        </Button>
+        <Button
+            android:text="Cardiology"
+            android:id="@+id/CardiologyBtnId"
+            android:layout_marginTop="10dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp">
+
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:text="Discharge Lounge"
+            android:id="@+id/Discharge_LoungeBtnId"
+            android:layout_marginTop="10dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp">
+        </Button>
+
+        <Button
+            android:text="Elderly Services"
+            android:id="@+id/Elderly_ServicesBtnId"
+            android:layout_marginTop="10dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp">
+
+        </Button>
+
+        <Button
+            android:text="Finance Department"
+            android:id="@+id/Finance_DepartmentBtnId"
+            android:layout_marginTop="10dp"
+            android:layout_width="140dp"
+            android:layout_height="140dp">
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:text="Health AND Safety"
+            android:id="@+id/Health_And_SafetyBtnId"
+            android:layout_width="140dp"
+            android:layout_height="140dp">
+
+        </Button>
+
+        <Button
+        android:text="Neurology"
+        android:id="@+id/NeurologyBtnId"
+        android:layout_marginTop="10dp"
+        android:layout_width="140dp"
+        android:layout_height="140dp">
+
+        </Button>
+
+        <Button
+        android:text="Sexual Health"
+        android:id="@+id/Sexual_HealthBtnId"
+        android:layout_marginTop="10dp"
+        android:layout_width="140dp"
+        android:layout_height="140dp">
+        </Button>
+
+    </LinearLayout>
+
+
+</LinearLayout>
