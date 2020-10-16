@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:orientation="vertical"
+    android:background="#755FA6"
     android:gravity="bottom"
     android:layout_height="match_parent"
     tools:context=".Department_Activity">
@@ -18,100 +19,127 @@
         <com.smarteist.autoimageslider.SliderLayout
             android:id="@+id/slider"
             android:layout_width="match_parent"
-            android:layout_height="250dp"/>
+            android:layout_height="300dp"/>
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="120dp"
+        android:gravity="center_vertical"
+        android:paddingBottom="5dp">
 
         <Button
-            android:text="Anesthetics"
-            android:id="@+id/AnestheticsBtnId"
-            android:layout_marginTop="10dp"
-            android:layout_width="140dp"
-            android:layout_height="140dp">
+
+            android:text="Eye"
+            android:background="@drawable/button_background"
+            android:textStyle="bold|italic"
+            android:id="@+id/EyeBtnId"
+            android:layout_margin="10dp"
+            android:layout_width="120dp"
+            android:layout_height="100dp">
 
         </Button>
 
         <Button
-            android:text="Burn_Unit"
-            android:id="@+id/Burn_UnitBtnId"
-            android:layout_marginTop="10dp"
-            android:layout_width="140dp"
-            android:layout_height="140dp">
+
+            android:text="Liver"
+            android:background="@drawable/button_background"
+            android:textStyle="bold|italic"
+            android:id="@+id/LiverBtnId"
+            android:layout_margin="10dp"
+            android:layout_width="120dp"
+            android:layout_height="100dp">
 
         </Button>
+
+        <Button
+            android:text="Breast Cancer"
+            android:background="@drawable/button_background"
+            android:textStyle="bold|italic"
+            android:id="@+id/BreastBtnId"
+            android:layout_margin="10dp"
+            android:layout_width="120dp"
+            android:layout_height="100dp">
+
+        </Button>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:gravity="center_vertical"
+        android:paddingBottom="5dp">
+
+        <Button
+            android:text="Diabetes and Endocrinology"
+            android:background="@drawable/button_background"
+            android:textStyle="bold|italic"
+            android:id="@+id/Diabetes_EndocrinologiBtnId"
+            android:layout_margin="10dp"
+            android:layout_width="120dp"
+            android:layout_height="100dp">
+        </Button>
+
+        <Button
+            android:text="Dermatology"
+            android:background="@drawable/button_background"
+            android:textStyle="bold|italic"
+            android:id="@+id/DarmatologyBtnId"
+            android:layout_margin="10dp"
+            android:layout_width="120dp"
+            android:layout_height="100dp">
+
+        </Button>
+
         <Button
             android:text="Cardiology"
+            android:background="@drawable/button_background"
+            android:textStyle="bold|italic"
             android:id="@+id/CardiologyBtnId"
-            android:layout_marginTop="10dp"
-            android:layout_width="140dp"
-            android:layout_height="140dp">
-
+            android:layout_margin="10dp"
+            android:layout_width="120dp"
+            android:layout_height="100dp">
         </Button>
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="120dp"
+        android:gravity="center_vertical"
+        android:paddingBottom="5dp">
 
         <Button
-            android:text="Discharge Lounge"
-            android:id="@+id/Discharge_LoungeBtnId"
-            android:layout_marginTop="10dp"
-            android:layout_width="140dp"
-            android:layout_height="140dp">
-        </Button>
-
-        <Button
-            android:text="Elderly Services"
-            android:id="@+id/Elderly_ServicesBtnId"
-            android:layout_marginTop="10dp"
-            android:layout_width="140dp"
-            android:layout_height="140dp">
-
-        </Button>
-
-        <Button
-            android:text="Finance Department"
-            android:id="@+id/Finance_DepartmentBtnId"
-            android:layout_marginTop="10dp"
-            android:layout_width="140dp"
-            android:layout_height="140dp">
-        </Button>
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
-        <Button
-            android:text="Health AND Safety"
-            android:id="@+id/Health_And_SafetyBtnId"
-            android:layout_width="140dp"
-            android:layout_height="140dp">
+            android:text="ENT Head and Neck"
+            android:background="@drawable/button_background"
+            android:textStyle="bold|italic"
+            android:id="@+id/ENT_Head_NeckBtnId"
+            android:layout_margin="10dp"
+            android:layout_width="120dp"
+            android:layout_height="100dp">
 
         </Button>
 
         <Button
         android:text="Neurology"
+        android:background="@drawable/button_background"
+        android:textStyle="bold|italic"
         android:id="@+id/NeurologyBtnId"
-        android:layout_marginTop="10dp"
-        android:layout_width="140dp"
-        android:layout_height="140dp">
-
+        android:layout_margin="10dp"
+        android:layout_width="120dp"
+        android:layout_height="100dp">
         </Button>
 
         <Button
-        android:text="Sexual Health"
-        android:id="@+id/Sexual_HealthBtnId"
-        android:layout_marginTop="10dp"
-        android:layout_width="140dp"
-        android:layout_height="140dp">
+        android:text="Forensic"
+        android:background="@drawable/button_background"
+        android:textStyle="bold|italic"
+        android:id="@+id/ForensicBtnId"
+        android:layout_margin="10dp"
+        android:layout_width="120dp"
+        android:layout_height="100dp">
         </Button>
 
     </LinearLayout>

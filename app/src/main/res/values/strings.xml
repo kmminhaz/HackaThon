@@ -4,90 +4,89 @@
 
     <string-array name="Dr1">
 
-        <item>Dr.Rifat</item>
-        <item>Dr.Ria</item>
-        <item>Dr.Minhaz</item>
-        <item>Dr.Monisha</item>
-        <item>Dr.Rahim</item>
-        <item>Dr.Arif</item>
-        <item>Dr.Atik</item>
+        <item>Dr. AKM Mamunur Rashid</item>
+        <item>Professor Dr. A.H.M. Enayet Hussain</item>
+        <item>Professor Dr. Deen Mohd. Noorul Huq</item>
+        <item>Professor Dr. Shah Alam</item>
+        <item>Professor Dr. Md. Saleh Uddin</item>
+        <item>Professor Dr. Jalal Ahmed</item>
+        <item>Dr. A.K.M. Nazmus Saquib</item>
 
 
     </string-array>
 
     <string-array name="Dr2">
 
-        <item>Dr.Rifat</item>
-        <item>Dr.Ria</item>
-        <item>Dr.Minhaz</item>
-        <item>Dr.Monisha</item>
-        <item>Dr.Rahim</item>
-        <item>Dr.Arif</item>
-        <item>Dr.Atik</item>
-
+        <item>Dr. A.K.M. Shamsul kabir</item>
+        <item>Professor Dr. A H M Rowshon</item>
+        <item>Professor Dr. A. K. M. Khorshed Alam</item>
+        <item>DProfessor Dr. Mobin Khan</item>
+        <item>Professor Dr. Mahbub H Khan</item>
+        <item>Professor Dr. M. T. Rahman</item>
+        <item>Professor Dr. Md. Muzibur Rahman Bhuiyan</item>
 
     </string-array>
 
     <string-array name="Dr3">
 
-        <item>Dr.Rifat</item>
-        <item>Dr.Ria</item>
-        <item>Dr.Minhaz</item>
-        <item>Dr.Monisha</item>
-        <item>Dr.Rahim</item>
-        <item>Dr.Arif</item>
-        <item>Dr.Atik</item>
+        <item>Dr. Tasmia Tahmid</item>
+        <item>Dr. Salma Sultana</item>
+        <item>Dr. Md. Mohiuddin</item>
+        <item>Dr. Raihana Awal Sumi</item>
+        <item>Professor Dr. Nishat Begum</item>
+        <item>Dr. S.K. Basu</item>
+        <item>Prof. Dr. Anisur Rahman</item>
 
 
     </string-array>
 
     <string-array name="Dr4">
 
-        <item>Dr.Rifat</item>
-        <item>Dr.Ria</item>
-        <item>Dr.Minhaz</item>
-        <item>Dr.Monisha</item>
-        <item>Dr.Rahim</item>
-        <item>Dr.Arif</item>
-        <item>Dr.Atik</item>
+        <item>Dr. Abdul Ali</item>
+        <item>Professor Dr. Zafar A. Latif</item>
+        <item>Dr. Indrajit Prasad</item>
+        <item>Dr. Ahsanul Haq Amin</item>
+        <item>Dr. Md. Feroz Amin</item>
+        <item>Dr. Abdul Mannan Sarker</item>
+        <item>Dr. ( Capt. Rtd. ) H.S Ferdous</item>
 
 
     </string-array>
     <string-array name="Dr5">
 
-        <item>Dr.Rifat</item>
-        <item>Dr.Ria</item>
-        <item>Dr.Minhaz</item>
-        <item>Dr.Monisha</item>
-        <item>Dr.Rahim</item>
-        <item>Dr.Arif</item>
-        <item>Dr.Atik</item>
+        <item>PROF. COLONEL DR MD SHIRAJUL ISLAM KHAN</item>
+        <item>Dr Lubna Khondker</item>
+        <item>Associate Prof. Dr. Hosne Ara Begum</item>
+        <item>Dr. A.S. Mofrehuddin Ahmed</item>
+        <item>Dr. A.S.M. Zakariya</item>
+        <item>Dr. A.T.M. Asaduzzaman</item>
+        <item>Dr. Abdul Quaium Chowdhury</item>
 
 
     </string-array>
 
     <string-array name="Dr6">
 
-        <item>Dr.Rifat</item>
-        <item>Dr.Ria</item>
-        <item>Dr.Minhaz</item>
-        <item>Dr.Monisha</item>
-        <item>Dr.Rahim</item>
-        <item>Dr.Arif</item>
-        <item>Dr.Atik</item>
+        <item>Professor Dr. Abdullah-Al-Safi Majumder</item>
+        <item>Professor (Dr.) Md. Fakhrul Islam</item>
+        <item>Dr. H. I. Lutfor Rahman Khan</item>
+        <item>Professor Dr. Md. Afjalur Rahman</item>
+        <item>Professor Dr. Abduz Zaher</item>
+        <item>Professor Dr. Abu Zafar</item>
+        <item>Professor Hasina Banoo</item>
 
 
     </string-array>
 
     <string-array name="Dr7">
 
-        <item>Dr.Rifat</item>
-        <item>Dr.Ria</item>
-        <item>Dr.Minhaz</item>
-        <item>Dr.Monisha</item>
-        <item>Dr.Rahim</item>
-        <item>Dr.Arif</item>
-        <item>Dr.Atik</item>
+        <item>Prof. Dr. Pran Gopal Datta</item>
+        <item>Prof. Dr. Md. Kamrul Hassan Tarafder</item>
+        <item>Prof. Dr. Belayet Hossain Siddiquee</item>
+        <item>Prof. Dr. Zahurul Huq</item>
+        <item>DProf. Dr. M. A. Matin</item>
+        <item>Prof. Dr. Md. Monjurul Alam</item>
+        <item>Prof. Dr. Delwar Hossain</item>
 
 
     </string-array>
@@ -120,110 +119,110 @@
 
     <string-array name="doctor_type1">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
+        <item>Eye Specialist</item>
 
 
     </string-array>
 
     <string-array name="doctor_type2">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Liver Specialist</item>
+        <item>Liver Specialist</item>
+        <item>Liver Specialist</item>
+        <item>Liver Specialist</item>
+        <item>Liver Specialist</item>
+        <item>Liver Specialist</item>
+        <item>Liver Specialist</item>
 
 
     </string-array>
     <string-array name="doctor_type3">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Breast Cancer Specialist</item>
+        <item>Breast Cancer Specialist</item>
+        <item>Breast Cancer Specialist</item>
+        <item>Breast Cancer Specialist</item>
+        <item>Breast Cancer Specialist</item>
+        <item>Breast Cancer Specialist</item>
+        <item>Breast Cancer Specialist</item>
 
 
     </string-array>
     <string-array name="doctor_type4">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Best Diabetes and Endocrinologists</item>
+        <item>Best Diabetes and Endocrinologists</item>
+        <item>Best Diabetes and Endocrinologists</item>
+        <item>Best Diabetes and Endocrinologists</item>
+        <item>Best Diabetes and Endocrinologists</item>
+        <item>Best Diabetes and Endocrinologists</item>
+        <item>Best Diabetes and Endocrinologists</item>
 
 
     </string-array>
     <string-array name="doctor_type5">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Dermatology Specialist</item>
+        <item>Dermatology Specialist</item>
+        <item>Dermatology Specialist</item>
+        <item>Dermatology Specialist</item>
+        <item>Dermatology Specialist</item>
+        <item>Dermatology Specialist</item>
+        <item>Dermatology Specialist</item>
 
 
     </string-array>
     <string-array name="doctor_type6">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Cardiology Heart Specialist</item>
+        <item>Cardiology Heart Specialist</item>
+        <item>Cardiology Heart Specialist</item>
+        <item>Cardiology Heart Specialist</item>
+        <item>Cardiology Heart Specialist</item>
+        <item>Cardiology Heart Specialist</item>
+        <item>Cardiology Heart Specialist</item>
 
 
     </string-array>
     <string-array name="doctor_type7">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>ENT Head and Neck Specialist</item>
+        <item>ENT Head and Neck Specialist</item>
+        <item>ENT Head and Neck Specialist</item>
+        <item>ENT Head and Neck Specialist</item>
+        <item>ENT Head and Neck Specialist</item>
+        <item>ENT Head and Neck Specialist</item>
+        <item>ENT Head and Neck Specialist</item>
 
 
     </string-array>
     <string-array name="doctor_type8">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Neurology</item>
+        <item>Neurology</item>
+        <item>Neurology</item>
+        <item>Neurology</item>
+        <item>Neurology</item>
+        <item>Neurology</item>
+        <item>Neurology</item>
 
 
     </string-array>
     <string-array name="doctor_type9">
 
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
-        <item>Anesthesiology Specialist</item>
+        <item>Forensic Specialist</item>
+        <item>Forensic Specialist</item>
+        <item>Forensic Specialist</item>
+        <item>Forensic Specialist</item>
+        <item>Forensic Specialist</item>
+        <item>Forensic Specialist</item>
+        <item>Forensic Specialist</item>
 
 
     </string-array>
@@ -311,4 +310,460 @@
                     Time: 10:00AM-04:00PM
                         FEE: 500TK
         </string>
+
+    <string name="Dr.AKM_Mamunur_Rashid">
+                Dr. AKM Mamunur Rashid
+        Qualification: MBBS, DCO(ICO,Ctg) , MPHO (UniSA)
+        Designation: Ophthalmologist and Cosmetic eye surgeon.
+        Short fellow, dry eye (SNEC, Singapore)
+        Fellow Cosmetic Oculoplasty (KEH, Seoul, South Korea)
+        Register, Ex ( Royal Adelaide Hospital, Australia )
+        Dry Eye and Ocular Aesthetic surgeon.
+        Chamber: Dry Eye Lab and Research
+    </string>
+
+    <string name="Professor_Dr._A.H.M._Enayet_Hussain">
+        Professor Dr. A.H.M. Enayet Hussain
+Qualification : MBBS, FRCS ( Glasg. Uk ), FCPS ( BD ), ICO ( UK )
+Designation : Professor
+Expertise : Eye Surgeon - Contact Lens and Phaco
+Chamber: Ahmed Medical Center ( Deen Eye Care and Research Institue )
+    </string>
+
+    <string name="Professor_Dr._Deen_Mohd._Noorul_Huq">
+3.Professor Dr. Deen Mohd. Noorul Huq
+Qualification : MBBS, FCPS
+Designation : Professor and Director
+Expertise : Eye ( Ophthalmology )
+Organization: National Institue of Ophthalmology
+Chamber: Mojibunnessa Eye Hospital Ltd
+    </string>
+
+<string name="Professor_Dr._Shah_Alam">
+    Professor Dr. Shah Alam
+    Qualification: MBBS, FCPS ( Ophthalmology )
+    Designation: Consultant
+    Expertise: Eye ( Ophthalmology )
+    Chamber: SQUARE Hospitals Ltd.
+</string>
+
+    <string name="Professor_Dr._Md._Saleh_Uddin">
+Professor Dr. Md. Saleh Uddin
+Qualification : MBBS, FCPS, MS, MPhD ( Australia ), FICS, FCPS
+Designation : Former Chairman, Ophthalmology Department, BSMMU
+Expertise : Eye ( Ophthalmology )
+Organization: Retired from BSMMU
+Chamber: Northern International Medical College and Hospital
+    </string>
+
+    <string name="Professor_Dr._alal_Ahmed">
+Professor Dr. Jalal Ahmed
+    Qualification : MBBS, FCPS, FICS
+    Designation : Professor, Department of Cataract, Phaco and Anterior Segment Surgeon
+    Expertise : Eye Surgeon - Contact Lens and Phaco
+    Organization: National Institute of Ophthalmology and Hospital
+    Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch
+    </string>
+
+    <string name="Dr._A.K.M._Nazmus_Saquib">
+Dr. A.K.M. Nazmus Saquib
+Qualification : MBBS, D.Ophth ( DU ), FEPS ( India ),
+FRSH ( London ), MAMS ( Viena )
+Designation : Consultnat, Eye Plastic Surgery, Eye Cancer Specialist
+Expertise : Eye Surgeon - Contact Lens and Phaco
+Chamber: Ahmed Medical Center ( Deen Eye Care and Research Institue )
+    </string>
+
+    <string name="Professor_Dr._Abdullah_Al_Safi_Majumder">
+Professor Dr. Abdullah-Al-Safi Majumder
+MBBS, D. Card, MD(Card), FACC, FSGC, FRCP Research Fellow,
+NCVC, (Japan) WHO Fellow in Cardiology, USA
+
+Cardiology /Heart Specialist
+Professor of Cardiology
+Visiting Hour : 11 AM-1 PM and 5 PM-7 PMClosed : FRIDAY
+National Institute of Cardiovascular Diseases, (NICVD)
+Popular Diagnostic Centre Ltd – Dhanmondi Branch
+    </string>
+
+    <string name="Professor_Dr._Mohammad_Safiuddin">
+Professor (Dr.) Mohammad Safiuddin
+MB BS(Dhaka), MD(Cardiology), DTCD, FRCP(Edin)
+FACC(USA), FCCP(USA), FESC, FRCP(Glasgow,UK)
+Professor of Interventional Cardiology,
+Bangabandhu Sheikh Mujib Medical University
+Speciality: Clinical and Interventional Cardoiogy (Angiogram, Angioplasty , Stentining)
+Chamber: Popular Medical College Hospital Consultation Center
+    </string>
+
+    <string name="Professor_Dr._Md._Fakhrul_Islam">
+Professor (Dr.) Md. Fakhrul Islam
+MBBS, MD (Cardiology), FESC (Europe), FACC (America)
+
+Higher Trained in : Heart failure and Critical Care (Esktos Heart Institute, New Dilhi, India)
+Interventional Cardiologist and Heart Failure Specialist
+Sinior Consultant, Heart Failure Dept. Labaid Cardiac Hospital, Dhaka.
+Chamber : LABAID CARDIAC HOSPITAL
+    </string>
+
+    <string name="Dr._H._I._Lutfor_Rahman_Khan">
+Dr. H. I. Lutfor Rahman Khan
+MBBS, D-Card, MD (Card)
+Cardiology /Heart Specialist
+Professor and Head, Department of Cardiology
+Dhaka Medical College and Hospital
+Chamber: Comfort Diagnostic Centre and Comfort Nursing Home
+    </string>
+
+    <string name="Professor_Dr._Md._Afjalur_Rahman">
+Professor Dr. Md. Afjalur Rahman
+MBBS, MD (Cardiology), PHD (Cardiology)
+FRCP (Glasgow), FRCP (Edin), FACC (USA)
+Fellowship in Interventional Cardiology (USA, France)
+Clinical and Interventional Cardiologist
+Professor and Head of Dept. Cardiology
+Sir Solimullah Medical College and Mitford Hospital, Dhaka.
+Chamber: LABAID CARDIAC HOSPITAL
+    </string>
+
+    <string name="Professor_Dr._Abduz_Zaher">
+Professor Dr. Abduz Zaher
+MBBS, FCPS ( Medicine ), FACC ( USA ) , FRCP
+Cardiology /Heart Specialist
+Consultant, Department of Interventional Cardiology
+Labaid Cardiac Hospital, Dhanmondi, Dhaka
+Chamber: Labaid Hospital Ltd.
+    </string>
+
+    <string name="Professor_Dr._Abu_Zafar">
+Professor Dr. Abu Zafar
+MBBS, MRCP ( UK ), FRCP ( Glasgow )
+Cardiology /Heart Specialist
+Professor, Ex-Head, Dept. of Cardiology, BSMMU
+Chamber: Ibn Sina Diagnostic and Imaging Center
+    </string>
+
+    <string name="Prof._Dr._Pran_Gopal_Datta">
+Prof. Dr. Pran Gopal Datta
+MBBS, MCPS, ACORL (Odessa), PhD (Kiev)
+M.Sc. in Audiology (UK), FCPS, FRCS (Glasgow)
+Professor, Department of ENT
+    </string>
+
+    <string name="Prof._Dr._Md._Kamrul_Hassan_Tarafder">
+Prof. Dr. Md. Kamrul Hassan Tarafder
+MBBS, FCPS,
+Specialist in ENT. Trained in Laser, Endoscopic sinus surgery, Rhinoplasty and Micro-Ear Surgery. FICS.
+Professor, Dept. of ENT, Bangabandhu Sheikh Mujib Medical University
+Chamber: Taqwa Specialized Hospital, 15, New Eskaton, Dhaka
+    </string>
+
+    <string name="Prof._Dr._Belayet_Hossain_Siddiquee">
+Prof. Dr. Belayet Hossain Siddiquee
+MBBS, FCPS, FICS
+Otolaryngology and Head Neck Surgery specialist.
+Professor and Chief, Dept. of Otolaryngology, Bangabandhu Sheikh Mujib Medical University
+Chamber: Medinet Medical Services
+    </string>
+
+    <string name="Prof.Dr._Zahurul_Huq">
+Prof. Dr. Zahurul Huq
+MBBS, DLO, FCPS ( ENT )
+ENT, Head, Neck Surgery Specialist
+Professor, Dept. of ENT, Bangabandhu Sheikh Mujib Medical University ( BSMMU )
+Chamber: Labaid Diagnostic Center Ltd.
+    </string>
+
+    <string name="Prof._Dr._M._A._Matin">
+Prof. Dr. M. A. Matin
+MBBS (DMC), DLO (London), FRCS (England), FRCS (Edin), FRCS (Glasgow)
+Trained in Uk, Ireland, USA, Hongkong, Netherlands, France, Singapore.
+ENT and Head Neck Surgeon.
+Professor, Dept. of ENT, Shaheed Suhrawardy Medical College and Hospital
+Chamber: Bangladesh ENT Hospital Ltd.,
+    </string>
+
+    <string name="Prof._Dr._Md._Monjurul_Alam">
+Prof. Dr. Md. Monjurul Alam
+MBBS, FCPS, MS (ENT), FICS (USA), Micro ear Surgery (Bangkok, Mumbai, Malaysia), FESS and Plastic
+Surgery (Delhi, Chennai, Singapore).
+Specialist in ENT (Ear, Nose and Throat).
+Professor, Dept. of ENT, Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber: Popular Diagnostic Center Ltd., Dhanmondi
+    </string>
+
+    <string name="Prof._Dr._Delwar_Hossain">
+Prof. Dr. Delwar Hossain
+MBBS, FCPS ( ENT )
+Micro Ear, Rhinoplasty, Endoscopic Sinus and Laser ENT Surgery Specialist
+Professor, Dept. of ENT, Bangabandhu Sheikh Mujib Medical University (BSMMU)
+Chamber: Health and Hope Hospital
+    </string>
+
+    <string name="Dr._A.K.M._Shamsul_kabir">
+Dr. A.K.M. Shamsul kabir
+Qualification : MBBS (DMCH), FCPS (Medicine), MD (Hepatology)
+Designation : Assistant Professor
+Expertise : Liver and Gastroenterology
+Organization: Holy Family Red Crescent Medical College Hospital
+Chamber: Labaid Specialized Hospital - Gulshan Branch
+    </string>
+
+    <string name="Professor_Dr._A_H_M_Rowshon">
+Professor Dr. A H M Rowshon
+Qualification : MBBS, FCPS (Med.), MD(Gastro),
+Commonwealth Fellow-gastro (UK)
+Designation : Professor, Department of Gastroenterlogy
+Expertise : Liver and Gastroenterology
+Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch
+    </string>
+
+    <string name="Professor_Dr._A._K._M._Khorshed_Alam">
+Professor Dr. A. K. M. Khorshed Alam
+Qualification : MBBS, FCPS; MHPE
+Designation : Professor, Department of Hepatology
+Expertise : Hepatology
+Organization: Bangabandhu Sheikh Mujib Medical University
+Chamber: Al-Rajhi Hospital
+    </string>
+
+    <string name="Professor_Dr._Mobin_Khan">
+Professor Dr. Mobin Khan
+Qualification : MBBS, MSc (Quinsland), FCCP (USA). FACP (USA),
+FCPS (Banladesh), FCPS (Pak), FRCP (Glasgo),FRCP(Edinburgh)
+Designation : Director - The Liver center, Dhaka, Bangladesh
+Expertise : Hepatology
+Chamber: The Liver Center
+    </string>
+
+    <string name="Professor_Dr._Mahbub_H_Khan">
+Professor Dr. Mahbub H Khan
+Qualification: MBBS, PhD-Liver Med (sydney) FAMS,
+Advanced trained Fellow, Liver and Gastro (Newcastle)
+Designation: Head of Gastrointestial and Hepatic Disorder
+Expertise : Liver
+Organization: BIHS Hospital of Diabetic Association
+Chamber: Trauma Center
+    </string>
+
+    <string name="Professor_Dr._M._T._Rahman">
+Professor Dr. M. T. Rahman
+Qualification : MBBS, FCPS, Trained in France and Japan
+Designation : Former Professor, Gastrointestinal Liver and Pancereatic Diseases
+Expertise : Liver and Gastroenterology
+Organization: Popular Diagnostic Center Ltd.
+Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch
+    </string>
+
+    <string name="Professor_Dr._Md._Muzibur_Rahman_Bhuiyan">
+Professor Dr. Md. Muzibur Rahman Bhuiyan
+MBBS, FCPS (Medicine) MD (Gastroenterology)
+Ex-Professor and Head of the Department
+Department of Gastroenterology and Hepatology Anowar khan Medical Collage Hospital
+Expertise : Medicine, Liver and Gastroentrology
+Coordinator and Senior Consultant Apollo Hospital Dhaka
+Chamber: Apollo Hospitals Dhaka
+    </string>
+
+    <string name="Dr._Tasmia_Tahmid">
+Dr. Tasmia Tahmid
+MBBS, MRCS ( Edin ) Breast Surgery
+Specialist Consultant United Hospital Limited
+Chamber1: Tasmia Tahmid Breast Care,
+    </string>
+
+    <string name="Dr._Salma_Sultana">
+Dr. Salma Sultana
+Speciality : General Surgery Department
+Degree : FCPS (Surgery), MS (General Surgery) Asst Professor Surgery Specialist in Breast, Colorectal
+and Laparoscopic Surgeon Dhaka Medical College and Hospital
+Chamber: Central Hospital Limited
+    </string>
+
+    <string name="Dr._Md._Mohiuddin">
+Dr. Md. Mohiuddin
+MBBS, BCS (Health), MS (General Surgery)
+General, Leparoscopic and Breast Surgeon
+Consultant
+General Hospital, Narayanganj
+Mobile: 01715-48 56 24
+Chamber: New Health care Diagnostic and Consultation Center
+    </string>
+
+    <string name="Dr._Raihana_Awal_Sumi">
+Dr. Raihana Awal Sumi
+
+MBBS, FCPS ( Surgery ), FRCS ( EDIN ),MS( Plastic Surgery )
+Professor
+Gynecology and Obstetrics
+Dhaka Medical College Hospital
+Chamber: Ibn Sina Medical Imaging Center
+    </string>
+
+    <string name="Professor_Dr._Nishat_Begum">
+Professor Dr. Nishat Begum
+MBBS, FCPS, Fellowship in Breast Cancer (India)
+Professor
+General Surgeon
+Dhaka Medical College and Hospital
+Chamber: Green Life Hospital Limited
+    </string>
+
+    <string name="Dr._S.K._Basu">
+Dr. S.K. Basu
+MBBS, MS (GS), DNB (Surgery)
+Senior Consultant – General and Laparoscopic Surgery, GI and Breast Oncosurgery
+Chamber: Apollo Hospitals Dhaka
+    </string>
+
+    <string name="Prof._Dr._Anisur_Rahman">
+Prof. Dr. Anisur Rahman
+MBBS (DMC), MSc (Canada), FCPS (Surgery), FRCS (Glasgow, UK)
+Consultant
+General and Laparoscopic Surgery
+United Hospital Limited
+Chamber: United Hospital Limited
+    </string>
+
+    <string name="Dr._Abdul_Ali">
+        Dr. Abdul Ali
+Qualification : MBBS
+Designation : Consultant, Expertise: Diabetes
+Chamber: MUKTI
+    </string>
+
+    <string name="Professor_Dr._Zafar_A._Latif">
+        Professor Dr. Zafar A. Latif
+Qualification : MBBS, FCPS
+Designation : Professor
+Expertise : Diabetes
+Organization: BIRDEM Hospital and Ibrahim Medical College
+Chamber: Ibrahim General Hospital and DCEC - Dhanmondi
+    </string>
+
+    <string name="Dr._Indrajit_Prasad">
+        Dr. Indrajit Prasad
+Qualification : MBBS, FCPS, MD, MACE ( USA )
+Designation : Assistant professor
+Expertise : Diabetes and Endocrine
+Organization: Sir Salimullah Medical College (SSMC)
+Chamber: Labaid Specialized Hospital
+    </string>
+
+    <string name="Dr._Ahsanul_Haq_Amin">
+Dr. Ahsanul Haq Amin
+Qualification : MBBS, MD
+Designation : Assistant Professor
+Expertise : Hormone and Diabetes
+Organization: Bangladesh Medical College and Hospital
+Chamber: Advanced Eye Center
+    </string>
+
+    <string name="Dr._Md._Feroz_Amin">
+Dr. Md. Feroz Amin
+Qualification : MBBS, MD ( Endocrinology )
+Designation : Assistant Professor
+Expertise : Hormone and Diabetes
+Organization: BIRDEM Hospital and Ibrahim Medical College
+Chamber: Comfort Diagnostic Centre and Comfort Nursing Home
+    </string>
+
+    <string name="Dr._Abdul_Mannan_Sarker">
+Dr. Abdul Mannan Sarker
+Qualification : MBBS, DEM (DU), MD (Endocrinology)
+Designation : Consultant
+Expertise : Diabetes and Endocrine
+Organization: Apollo Hospitals Dhaka
+Chamber: Apollo Hospitals Dhaka
+    </string>
+
+    <string name="Dr._Capt.Rtd._H.S_Ferdous">
+Dr. ( Capt. Rtd. ) H.S Ferdous
+Qualification : MBBS, DEM (DU), FRMH (Australia), MACE (USA) Ph.D Fellow(DU),
+Ex-Visiting Associate RMH (Australia)
+Designation : Consultant
+Expertise : Diabetes and Endocrine
+Organization: BIRDEM and Ibrahim Medical College and Hospital
+Chamber: Popular Diagnostic Centre Ltd - Dhanmondi Branch
+    </string>
+
+    <string name="PROF._COLONEL_DR_MD_SHIRAJUL_ISLAM_KHAN">
+PROF. COLONEL DR MD SHIRAJUL ISLAM KHAN
+Qualification: MBBS, DDV, MCPS, FCPS(Dermatology and Venereology), Grading Course in
+Dermatology (AFMI),
+Fellowship Training in Cutaneous and LASER Surgery(Bangkok)
+Specialist: Dermatology and Venereology, Allergy, Cosmetic and Sexual Medicine.
+Designation: Professor and Head of the Department, Dermatology and Venereology, Combined Military
+Hospital (CMH), Dhaka
+Expertise: Skin, Hair, Nail, Venereology, Sexual Medicine, Cosmetology, Dermatosurgery and LASER
+Treatment
+Experience: 28 years
+Organization: Combined Military Hospital (CMH), Dhaka Cantonment
+BMDC Reg No: A-21472
+    </string>
+
+    <string name="Dr_Lubna_Khondker">
+Dr Lubna Khondker
+Qualification: MBBS, MPH, DDV (BSMMU), MCPS, FCPS (Dermatology and Venereology)
+Fellowship Training in Cutaneous and LASER Surgery (Thailand)
+Specialist: Dermatology and Venereology, Allergy, Cosmetic and Laser.
+Designation: Associate Professor, Department of Dermatology and Venereology, Bangabandhu Sheikh
+Mujib Medical University (BSMMU), Dhaka
+Fee: 900/-
+    </string>
+
+    <string name="Associate_Prof._Dr._Hosne_Ara_Begum">
+Associate Prof. Dr. Hosne Ara Begum
+MBBS, DDV, FCPS ( Skin and VD)
+FCPS (Skin and VD), DDV, MBBS (DMC) Fellow of Dermato-surgery ( London )
+Associate Professor, and Head of the Department, Birdem
+BIRDEM general Hospital and Ibrahim Medical College
+Chamber Address: Women and Children Hospital
+    </string>
+
+    <string name="Dr._A.S._Mofrehuddin_Ahmed">
+Dr. A.S. Mofrehuddin Ahmed
+MBBS (DHAKA), DDV
+Consultant skin specialist
+Chamber: Ibn Sina Consultation Center
+R-2/A, H-58, Dhanmondi R/A, Dhaka-1209
+    </string>
+
+    <string name="Dr._A.S.M._Zakariya">
+Dr. A.S.M. Zakariya
+MBBS, MPH, MD skin / dermatology
+Trained In Bangkok, Paris
+Assistant Professor
+Bangabandhu Sheikh Mujib Medical University
+Chamber: Central Hospital Ltd. Anex-2
+    </string>
+
+    <string name="Dr._A_T.M._Asaduzzaman">
+6.Dr. A.T.M. Asaduzzaman
+MBBS, MD
+Assistant Professor.
+Bangabandhu Sheikh Mujib Medical University
+Chamber: Japan Bangladesh Friendship Hospital
+    </string>
+
+    <string name="Dr._Abdul_Quaium_Chowdhury">
+Dr. Abdul Quaium Chowdhury
+MBBS, SDDV (Dhaka),
+M-Dermatology (India), Fellow (Vd and Aids) Lond Fellow (Skin Surgery) Germany
+Consultant
+Chamber: Panpacific Hospital
+Training and Research Institute Ltd.
+24 Outer Circular Road (Near Pirjongi Majar), Motijheel, Dhaka-1217
+Chamber: Apollo Skin Care
+Room: 32/A, 6th Floor, Eastern Plaza, Hatirpul, Dhaka
+    </string>
+
+    <string name="Professor_Hasina_Banoo">
+MBBS, FCPS (Medicine)
+Cardiology /Heart Specialist
+Ex. Professor of Cardiology SSMCH (Mitford) and BSMMU
+Labaid Hospital, Gulshan
+Chamber: Labaid Specialized Hospital – Gulshan Branch
+    </string>
+
 </resources>
