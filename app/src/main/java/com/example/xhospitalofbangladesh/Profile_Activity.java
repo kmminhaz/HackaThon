@@ -4,7 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.MotionEvent;
 import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -13,6 +16,8 @@ public class Profile_Activity extends AppCompatActivity {
     private TextView heading,details;
     private ImageView imageView;
     private Button appointment;
+
+    private Animation scaleUp,scaleDown;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,9 +29,22 @@ public class Profile_Activity extends AppCompatActivity {
         details = findViewById(R.id.DetailsId);
         imageView = findViewById(R.id.ImageId);
 
+        scaleUp = AnimationUtils.loadAnimation(this,R.anim.scal_up);
+        scaleDown = AnimationUtils.loadAnimation(this,R.anim.scale_down);
+
         appointment.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                appointment.setOnTouchListener(new View.OnTouchListener() {
+                    @Override
+                    public boolean onTouch(View view, MotionEvent motionEvent) {
+                        if(motionEvent.getAction()==MotionEvent.ACTION_DOWN)
+                            appointment.startAnimation(scaleUp);
+                        else if(motionEvent.getAction()==MotionEvent.ACTION_UP)
+                            appointment.startAnimation(scaleDown);
+                        return false;
+                    }
+                });
                 Intent appoint_intent = new Intent(Profile_Activity.this, Add_Info.class);
                 startActivity(appoint_intent);
             }

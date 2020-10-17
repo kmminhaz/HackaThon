@@ -20,7 +20,7 @@ public class Add_Info extends AppCompatActivity {
 
         name = findViewById(R.id.NameId);
         number = findViewById(R.id.NumberId);
-        submit = findViewById(R.id.submitBtnId);
+        submit = findViewById(R.id.SubmitBtnId);
 
         submit.setOnClickListener(new View.OnClickListener() {
             @Override

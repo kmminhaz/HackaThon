@@ -10,47 +10,56 @@
     android:paddingLeft="20dp"
     android:paddingRight="20dp"
     android:paddingTop="20dp"
+    android:background="@drawable/background2"
     tools:context=".Admin_Login_Activity">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="95dp"
-        android:gravity="center"
-        android:text="Welcome to Admin"
-        android:textSize="30dp" />
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="70dp"
+        android:src="@drawable/logo">
+    </ImageView>
 
     <EditText
         android:id="@+id/UsernameEt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="15dp"
+        android:layout_marginBottom="35dp"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
         android:gravity="center"
         android:hint="Username"
-        android:textSize="20dp" />
+        android:textColorHint="#FFFFFF"
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"/>
 
     <EditText
         android:id="@+id/PasswordEt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="15dp"
+        android:layout_marginBottom="50dp"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
         android:gravity="center"
         android:hint="Password"
+        android:textColorHint="#FFFFFF"
         android:password="true"
-        android:textSize="20dp" />
+        android:textSize="20dp"
+        android:textColor="#FFFFFF"/>
 
     <Button
         android:id="@+id/LoginBtn"
+        android:background="@drawable/button_background"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:paddingLeft="30dp"
         android:paddingRight="30dp"
-        android:text="Login" />
+        android:text="Login"
+        android:textStyle="bold|italic"
+        android:textSize="20dp"/>
 
 
 </LinearLayout>

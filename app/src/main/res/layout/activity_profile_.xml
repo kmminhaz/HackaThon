@@ -7,7 +7,8 @@
     android:padding="15dp"
     android:orientation="vertical"
     android:layout_height="match_parent"
-    tools:context=".Profile_Activity">
+    tools:context=".Profile_Activity"
+    android:background="#DA8F21">
 
 
     <ImageView
@@ -54,7 +55,7 @@
         android:text="Appointment"
         android:textStyle="bold"
         android:textSize="30dp"
-        android:background="#5FCAC0">
+        android:background="@drawable/button_background">
 
     </Button>
 

@@ -8,7 +8,8 @@
     android:gravity="center"
     android:orientation="vertical"
     android:visibility="visible"
-    tools:context=".Home_Activity">
+    tools:context=".Home_Activity"
+    android:background="#755FA6">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -19,38 +20,38 @@
         <com.smarteist.autoimageslider.SliderLayout
             android:id="@+id/slider"
             android:layout_width="match_parent"
-            android:layout_height="250dp"/>
+            android:layout_height="300dp"/>
 
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="20dp"
-        android:layout_weight="0.1 "
-        android:gravity="center">
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:paddingBottom="10dp">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/imageId"
             android:layout_width="200dp"
             android:layout_height="150dp"
-
             android:src="@drawable/a">
 
         </androidx.appcompat.widget.AppCompatImageView>
 
         <Button
             android:id="@+id/AdminBtn"
-            android:layout_width="208dp"
+            android:background="@drawable/button_background"
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:layout_weight="2"
-            android:text="Admin" />
+            android:text="Admin"
+            android:textStyle="bold|italic"/>
     </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="20dp"
-        android:layout_weight="0.1 "
-        android:gravity="center">
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:paddingTop="10dp">
 
         <androidx.appcompat.widget.AppCompatImageView
             android:id="@+id/pimageId"
@@ -62,10 +63,11 @@
 
         <Button
             android:id="@+id/PatientBtn"
-            android:layout_width="wrap_content"
+            android:background="@drawable/button_background"
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Patient" />
+            android:text="Patient"
+            android:textStyle="bold|italic"/>
     </LinearLayout>
 
 </LinearLayout>

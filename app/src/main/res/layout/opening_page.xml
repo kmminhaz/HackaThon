@@ -4,26 +4,43 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
-
-
-android:layout_width="match_parent"
-android:layout_height="wrap_content"
-android:layout_weight="0.2"
-android:orientation="horizontal">
-
-<Button
-    android:text="Welcome To Our
-    Hospital"
-    android:textSize="30dp"
-    android:id="@+id/buttonId"
-    android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/logo3"
-    android:textColor="#0F1010"
-    android:gravity="center"
-    tools:ignore="MissingClass" />
+    android:background="#187373">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginBottom="10dp">
 
+        <ImageView
+            android:id="@+id/hospital_imageId"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:background="@drawable/logo"
+            android:textColor="#F8FBFB"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="X Hospital of Bangladesh"
+            android:textSize="35dp"
+            android:textStyle="bold|italic"
+            android:gravity="center_horizontal"
+            android:textColor="#000000"
+            android:background="#ffff"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <pl.droidsonroids.gif.GifImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/welcome">
+
+        </pl.droidsonroids.gif.GifImageView>
+    </LinearLayout>
 
 </LinearLayout>

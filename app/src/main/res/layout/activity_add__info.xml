@@ -5,38 +5,59 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:paddingBottom="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="20dp"
+    android:background="@drawable/background4"
     tools:context=".Add_Info">
 
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="70dp"
+        android:src="@drawable/logo">
+    </ImageView>
+
     <EditText
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Name"
         android:id="@+id/NameId"
-        android:textSize="25dp"
-        android:gravity="center_horizontal"
-        android:layout_margin="20dp">
-
-    </EditText>
-    <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Phone Number"
-        android:id="@+id/NumberId"
-        android:textSize="25dp"
-        android:gravity="center_horizontal"
-        android:layout_margin="20dp">
+        android:layout_marginBottom="35dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center"
+        android:hint="Name"
+        android:textColorHint="#000000"
+        android:textSize="30dp"
+        android:textColor="#FFFFFF"/>
 
-    </EditText>
+    <EditText
+        android:id="@+id/NumberId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:gravity="center"
+        android:hint="Number"
+        android:textColorHint="#000000"
+        android:textSize="30dp"
+        android:textColor="#FFFFFF"/>
 
     <Button
-        android:layout_width="match_parent"
+        android:id="@+id/SubmitBtnId"
+        android:background="@drawable/button_background"
+        android:layout_width="200dp"
         android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:textSize="30dp"
         android:text="Submit"
-        android:id="@+id/submitBtnId"
-        android:textSize="25dp"
-        android:gravity="center_horizontal"
-        android:layout_margin="20dp">
-
-    </Button>
+        android:textColor="#000000"
+        android:textStyle="bold|italic"/>
 
 </LinearLayout>

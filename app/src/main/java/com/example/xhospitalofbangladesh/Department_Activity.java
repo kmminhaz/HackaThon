@@ -61,50 +61,163 @@ public class Department_Activity extends AppCompatActivity implements View.OnCli
     }
 
     private void setSliderViews() {
-        for (int i = 0; i<13; i++){
+        for (int i = 0; i<51; i++){
             DefaultSliderView sliderView =new DefaultSliderView(this);
 
             switch(i) {
                 case 0:
-                    sliderView.setImageDrawable(R.drawable.eye);
-                    break;
-                case 1:
-                    sliderView.setImageDrawable(R.drawable.liver_patient);
-                    break;
-                case 2:
-                    sliderView.setImageDrawable(R.drawable.breast_cancer);
-                    break;
-                case 3:
-                    sliderView.setImageDrawable(R.drawable.diabetes_endocrinologi);
-                    break;
-                case 4:
-                    sliderView.setImageDrawable(R.drawable.cardiology);
-                    break;
-                case 5:
-                    sliderView.setImageDrawable(R.drawable.darmatology);
-                    break;
-                case 6:
-                    sliderView.setImageDrawable(R.drawable.neurology);
-                    break;
-                case 7:
-                    sliderView.setImageDrawable(R.drawable.neurology1);
-                    break;
-                case 8:
-                    sliderView.setImageDrawable(R.drawable.ent_head_neck);
-                    break;
-                case 9:
-                    sliderView.setImageDrawable(R.drawable.ent_head_neck1);
-                    break;
-                case 10:
-                    sliderView.setImageDrawable(R.drawable.forensic);
-                    break;
-                case 11:
-                    sliderView.setImageDrawable(R.drawable.forensic1);
-                    break;
-                case 12:
                     sliderView.setImageDrawable(R.drawable.dr_akm_mahmunur_rashid);
                     break;
-
+                case 1:
+                    sliderView.setImageDrawable(R.drawable.dr_a_h_m_rowshon);
+                    break;
+                case 2:
+                    sliderView.setImageDrawable(R.drawable.dr_a_k_m_khorshed_alam);
+                    break;
+                case 3:
+                    sliderView.setImageDrawable(R.drawable.dr_abdul_ali);
+                    break;
+                case 4:
+                    sliderView.setImageDrawable(R.drawable.dr_abdul_mannan_sarker);
+                    break;
+                case 5:
+                    sliderView.setImageDrawable(R.drawable.dr_abdul_quaium_chowdhury);
+                    break;
+                case 6:
+                    sliderView.setImageDrawable(R.drawable.dr_abdullah_al_safi_majumder);
+                    break;
+                case 7:
+                    sliderView.setImageDrawable(R.drawable.dr_abduz_zaher);
+                    break;
+                case 8:
+                    sliderView.setImageDrawable(R.drawable.dr_abu_safar);
+                    break;
+                case 9:
+                    sliderView.setImageDrawable(R.drawable.dr_ahm_enayet_hussain);
+                    break;
+                case 10:
+                    sliderView.setImageDrawable(R.drawable.dr_ahsanul_haq_amin);
+                    break;
+                case 11:
+                    sliderView.setImageDrawable(R.drawable.dr_akm_nazmus_saquib);
+                    break;
+                case 12:
+                    sliderView.setImageDrawable(R.drawable.dr_akm_shamsul_kabir);
+                    break;
+                case 13:
+                    sliderView.setImageDrawable(R.drawable.dr_anisur_rahman);
+                    break;
+                case 14:
+                    sliderView.setImageDrawable(R.drawable.dr_as_mofrehuddin_ahmed);
+                    break;
+                case 15:
+                    sliderView.setImageDrawable(R.drawable.dr_asm_zakariya);
+                    break;
+                case 16:
+                    sliderView.setImageDrawable(R.drawable.dr_atm_asaduzzaman);
+                    break;
+                case 17:
+                    sliderView.setImageDrawable(R.drawable.dr_abdullah_al_safi_majumder);
+                    break;
+                case 18:
+                    sliderView.setImageDrawable(R.drawable.dr_belayet_hossain_siddiquee);
+                    break;
+                case 19:
+                    sliderView.setImageDrawable(R.drawable.dr_capt_rtd_hs_ferdous);
+                    break;
+                case 20:
+                    sliderView.setImageDrawable(R.drawable.dr_deen_mohd_noorul_huq);
+                    break;
+                case 21:
+                    sliderView.setImageDrawable(R.drawable.dr_deen_mohd_noorul_huq);
+                    break;
+                case 22:
+                    sliderView.setImageDrawable(R.drawable.dr_delwar_hossain);
+                    break;
+                case 23:
+                    sliderView.setImageDrawable(R.drawable.dr_lubna_khondker);
+                    break;
+                case 24:
+                    sliderView.setImageDrawable(R.drawable.dr_hasina_banoo);
+                    break;
+                case 25:
+                    sliderView.setImageDrawable(R.drawable.dr_hi_lutfor_rahman_khan);
+                    break;
+                case 26:
+                    sliderView.setImageDrawable(R.drawable.dr_ma_matin);
+                    break;
+                case 27:
+                    sliderView.setImageDrawable(R.drawable.dr_mahbub_h_khan);
+                    break;
+                case 28:
+                    sliderView.setImageDrawable(R.drawable.dr_salma_sultana);
+                    break;
+                case 29:
+                    sliderView.setImageDrawable(R.drawable.dr_indrajit_prasad);
+                    break;
+                case 30:
+                    sliderView.setImageDrawable(R.drawable.dr_hosne_ara_begum);
+                    break;
+                case 31:
+                    sliderView.setImageDrawable(R.drawable.dr_md_fakhrul_islam);
+                    break;
+                case 32:
+                    sliderView.setImageDrawable(R.drawable.dr_jalal_ahmed);
+                    break;
+                case 33:
+                    sliderView.setImageDrawable(R.drawable.dr_mohammad_safiuddin);
+                    break;
+                case 34:
+                    sliderView.setImageDrawable(R.drawable.dr_md_muzibur_rahman_bhuiyan);
+                    break;
+                case 35:
+                    sliderView.setImageDrawable(R.drawable.dr_mt_rahman);
+                    break;
+                case 36:
+                    sliderView.setImageDrawable(R.drawable.dr_mobin_khan);
+                    break;
+                case 37:
+                    sliderView.setImageDrawable(R.drawable.dr_sk_basu);
+                    break;
+                case 38:
+                    sliderView.setImageDrawable(R.drawable.dr_zahurul_huq);
+                    break;
+                case 39:
+                    sliderView.setImageDrawable(R.drawable.dr_zafar_a_latif);
+                    break;
+                case 40:
+                    sliderView.setImageDrawable(R.drawable.dr_tasmia_tahmid);
+                    break;
+                case 41:
+                    sliderView.setImageDrawable(R.drawable.dr_nishat_begum);
+                    break;
+                case 42:
+                    sliderView.setImageDrawable(R.drawable.dr_md_shirajul_islam_khan);
+                    break;
+                case 43:
+                    sliderView.setImageDrawable(R.drawable.dr_raihana_awal_sumi);
+                    break;
+                case 44:
+                    sliderView.setImageDrawable(R.drawable.dr_md_mohiuddin);
+                    break;
+                case 45:
+                    sliderView.setImageDrawable(R.drawable.dr_md_kamrul_hassan_tarafder);
+                    break;
+                case 46:
+                    sliderView.setImageDrawable(R.drawable.dr_shah_alam);
+                    break;
+                case 47:
+                    sliderView.setImageDrawable(R.drawable.dr_mohammad_safiuddin);
+                    break;
+                case 48:
+                    sliderView.setImageDrawable(R.drawable.dr_md_saleh_uddin);
+                    break;
+                case 49:
+                    sliderView.setImageDrawable(R.drawable.dr_mahbub_h_khan);
+                    break;
+                case 50:
+                    sliderView.setImageDrawable(R.drawable.dr_md_fakhrul_islam);
+                    break;
             }
             sliderView.setImageScaleType(ImageView.ScaleType.FIT_CENTER);
             sliderLayout.addSliderView(sliderView);
