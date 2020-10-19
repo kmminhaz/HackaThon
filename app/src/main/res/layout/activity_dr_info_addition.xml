@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="20dp"
+    android:background="@drawable/background4"
+    tools:context=".dr_info_addition">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="20dp"
+                android:src="@drawable/logo">
+            </ImageView>
+
+            <EditText
+                android:id="@+id/DrNameId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="35dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:gravity="center"
+                android:hint="Name"
+                android:textColorHint="#000000"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"/>
+
+            <EditText
+                android:id="@+id/DrSpecialityId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="35dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:gravity="center"
+                android:hint="Speciality"
+                android:textColorHint="#000000"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"/>
+
+            <EditText
+                android:id="@+id/DrNumberId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="35dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:gravity="center"
+                android:hint="Number"
+                android:textColorHint="#000000"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"/>
+
+            <EditText
+                android:id="@+id/DrDetailsId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="35dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:gravity="center"
+                android:hint="Add Details here"
+                android:textColorHint="#000000"
+                android:textSize="30dp"
+                android:textColor="#FFFFFF"/>
+
+            <Button
+                android:id="@+id/DrSubmitBtnId"
+                android:background="@drawable/button_background"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:textSize="30dp"
+                android:text="Submit"
+                android:textColor="#000000"
+                android:textStyle="bold|italic"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
