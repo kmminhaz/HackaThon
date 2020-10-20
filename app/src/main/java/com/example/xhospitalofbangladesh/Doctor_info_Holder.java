@@ -1,14 +1,13 @@
 package com.example.xhospitalofbangladesh;
 
-import java.util.PriorityQueue;
+public class Doctor_info_Holder {
+    String DrName,DrSpeciality,DrNumber,DrDetails;
 
-public class set_info_Adapter {
-    private String DrName;
-    private String DrSpeciality;
-    private String DrNumber;
-    private String DrDetails;
-
-    public set_info_Adapter(){
+    public Doctor_info_Holder(String drName, String drSpeciality, String drNumber, String drDetails) {
+        DrName = drName;
+        DrSpeciality = drSpeciality;
+        DrNumber = drNumber;
+        DrDetails = drDetails;
     }
 
     public String getDrName() {

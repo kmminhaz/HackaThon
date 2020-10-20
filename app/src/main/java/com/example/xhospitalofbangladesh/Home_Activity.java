@@ -10,7 +10,10 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.Toast;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 import com.smarteist.autoimageslider.DefaultSliderView;
 import com.smarteist.autoimageslider.IndicatorAnimations;
 import com.smarteist.autoimageslider.SliderAnimations;
@@ -65,6 +68,10 @@ public class Home_Activity extends AppCompatActivity {
                         return false;
                     }
                 });
+                /*FirebaseDatabase fd = FirebaseDatabase.getInstance();
+                DatabaseReference df = fd.getReference();
+
+                df.setValue("hi");*/
                 Intent Admin_intent = new Intent(Home_Activity.this, Admin_Login_Activity.class);
                 startActivity(Admin_intent);
             }

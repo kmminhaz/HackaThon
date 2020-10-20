@@ -24,8 +24,6 @@ public class Admin_Login_Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admin__login_);
 
-        //firebaseAuth = FirebaseAuth.getInstance();
-
         scaleUp = AnimationUtils.loadAnimation(this, R.anim.scal_up);
         scaleDown = AnimationUtils.loadAnimation(this, R.anim.scale_down);
 
@@ -46,7 +44,8 @@ public class Admin_Login_Activity extends AppCompatActivity {
                         return false;
                     }
                 });
-                startActivity(new Intent(Admin_Login_Activity.this, dr_info_addition.class));
+                Intent intent = new Intent(Admin_Login_Activity.this, Doctors_Form.class);
+                startActivity(intent);
             }
         });
     }
